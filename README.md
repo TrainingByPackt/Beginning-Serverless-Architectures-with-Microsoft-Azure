@@ -5,7 +5,7 @@
 
 
 
-# Beginning Application Development with TensorFlow and Keras
+# Beginning Serverless Architectures with Microsoft Azure
 Serverless technology abstracts away all underlying servers and infrastructure, allowing technology teams to focus on delivering business value rather than managing infrastructure. It offers several advantages over container technologies like Docker. Containers require management themselves, with DevOps teams generally configuring them, managing deployments and ensuring they are scaled appropriately. Serverless technologies scale totally automatically and are only charged by usage. Deployments are done using simple deployment slots. There is no configuration beyond connection strings that are injected on deployment because the code has to be written without any assumptions about the server it is running on.
 
 
